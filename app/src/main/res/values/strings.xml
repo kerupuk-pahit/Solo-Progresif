@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SYSTEM - LIFE RPG</string>
+    <string name="accessibility_service_desc">Layanan ini memantau pembukaan aplikasi untuk memberlakukan batas waktu dan kunci produktivitas harian Anda.</string>
+</resources>
